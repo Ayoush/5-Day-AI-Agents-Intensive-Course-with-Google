@@ -1,0 +1,11 @@
+# Task Management CLI - Requirements
+# Python 3.7+ is required
+
+# No external dependencies required for basic functionality
+# The project uses only Python standard library
+
+# Optional dependencies for future enhancements:
+# sqlalchemy>=1.4.0  # For database storage
+# click>=8.0.0       # For better CLI framework
+# rich>=10.0.0       # For enhanced terminal output
+
