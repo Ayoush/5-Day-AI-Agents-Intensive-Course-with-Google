@@ -7,7 +7,7 @@ Welcome! This repository documents my personal learning journey through Google's
 While the course provides excellent foundational materials, I'm going beyond the standard curriculum by:
 
 - **Building Local Examples:** Creating practical, runnable examples that demonstrate concepts in different contexts
-- **Comprehensive Note-Taking:** Documenting insights from podcasts, live sessions, and hands-on experimentation
+- **Comprehensive Note-Taking:** Documenting insights from whitepapers and hands-on experimentation
 - **Dual Implementation:** Working through exercises both on Kaggle (for the official codelabs) and locally (for extended experimentation)
 - **Concept Exploration:** Developing additional examples that explore edge cases and real-world applications
 
@@ -36,8 +36,7 @@ This 5-day online program, crafted by Google's ML researchers and engineers, hel
 Each day follows this structure:
 ```
 Day X/
-├── podcast-notes/      # Notes from course podcasts
-├── live-notes/         # Notes from live sessions
+├── whitepaper-notes/   # Notes from course whitepapers
 ├── notebooks/          # Local Jupyter notebooks with examples
 └── examples/           # Additional practical examples beyond course materials
 ```
@@ -56,8 +55,7 @@ Day X/
   - [Day 1b: Agent Architectures - Build your first multi-agent systems using ADK](https://www.kaggle.com/code/meph0x/day-1b-agent-architectures)
 
 **My Additional Work:**
-- 📝 Podcast notes and key takeaways
-- 📝 Live session notes and Q&A insights
+- 📝 Whitepaper notes and key takeaways
 - 💻 Local notebook implementations exploring agent concepts
 - 🚀 Extended examples demonstrating practical use cases
 
@@ -73,8 +71,7 @@ Day X/
   - Explore best practices for tools, including MCP and long-running operations
 
 **My Additional Work:**
-- 📝 Podcast notes and key takeaways
-- 📝 Live session notes and Q&A insights
+- 📝 Whitepaper notes and key takeaways
 - 💻 Local notebook implementations exploring tools and MCP
 - 🚀 Extended examples demonstrating tool integration patterns
 
@@ -96,7 +93,7 @@ While many participants may simply complete the course materials, this repositor
 
 1. **Extended Examples:** Practical implementations that go beyond the course exercises
 2. **Local Development:** Full working examples you can run in your own environment
-3. **Comprehensive Documentation:** Detailed notes from all learning sources (podcasts, live sessions, experiments)
+3. **Comprehensive Documentation:** Detailed notes from whitepapers and hands-on experiments
 4. **Learning Journey:** A transparent view of the learning process, including experiments and iterations
 
 ## Getting Started
